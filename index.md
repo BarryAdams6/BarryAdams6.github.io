@@ -2,6 +2,8 @@
 
 I am a Biology student at CSUF and a fan of Post Malone.
 
+My GitHub page is http://github.com/BarryAdams6
+
 ## Favorite CPSC 120L Labs
 * Lab 9
   
